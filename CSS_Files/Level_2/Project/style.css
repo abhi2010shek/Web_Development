@@ -1,0 +1,10 @@
+.opacity{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+main{
+    background-color: blanchedalmond;
+}
+.back{
+    /*background-image: url(pic_1.jpg);*/
+    background: green url(pic_1.jpg) no-repeat center;
+}
