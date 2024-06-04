@@ -1,0 +1,7 @@
+*{
+    background-image: url(pic_1.jpg);
+}
+.back{
+    background-color: bisque;
+    height: 40px; width: 400px;
+}
