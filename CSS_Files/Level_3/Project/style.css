@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav h1{
+    background-color: aquamarine;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#inner{
+    font-size: 10px;
+}
+#outer{
+    font-size: 25px;
+}
