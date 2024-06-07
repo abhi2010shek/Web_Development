@@ -1,0 +1,16 @@
+#box1{
+    height: 100px; width: 100px;
+    background-color: darkorange;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: aqua;
+    text-transform: uppercase;
+}
+#text{
+    font-size: medium;
+    line-height: 12px;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
